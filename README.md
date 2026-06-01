@@ -88,16 +88,16 @@ It allows safe testing of OTP email functionality without sending real emails to
 - Hapi.js (Backend Framework)
 
   
--MySQL (Database)
+- MySQL (Database)
 
 
--JWT (Authentication)
+- JWT (Authentication)
 
 
--Mailtrap (Email Testing)
+- Mailtrap (Email Testing)
 
 
--ExcelJS (Excel handling)
+- ExcelJS (Excel handling)
 
 
 -Postman (API testing)
