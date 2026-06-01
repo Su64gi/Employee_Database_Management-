@@ -8,11 +8,21 @@ This project is a full-stack backend system built using Node.js, Hapi.js, and My
 https://github.com/user-attachments/assets/279255a9-e322-4eb1-9aee-86c6e5b0a712
 
 Features
+
+
 🔐 User Authentication System
-> Users can register with name, email, and password
-> Secure login system using email and password
-> JWT token generation for session management
-> Token-based authorization for protected routes
+
+
+* Users can register with name, email, and password
+
+  
+* Secure login system using email and password
+
+  
+* JWT token generation for session management
+
+  
+* Token-based authorization for protected routes
 
 📩 OTP Email Verification
 After login, a 6-digit OTP is generated automatically
