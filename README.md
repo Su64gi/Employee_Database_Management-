@@ -100,7 +100,7 @@ It allows safe testing of OTP email functionality without sending real emails to
 - ExcelJS (Excel handling)
 
 
--Postman (API testing)
+- Postman (API testing)
 
 <img width="1536" height="1024" alt="flowchart" src="https://github.com/user-attachments/assets/95df6d69-2504-496e-b1a1-412734e64a87" />
 
