@@ -4,6 +4,7 @@
 This project is a full-stack backend system built using Node.js, Hapi.js, and MySQL that manages user registration, login authentication, OTP verification, and employee data operations.
 
 🎥Demo video
+
 https://github.com/user-attachments/assets/279255a9-e322-4eb1-9aee-86c6e5b0a712
 
 Features
