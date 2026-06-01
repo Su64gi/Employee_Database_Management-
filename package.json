@@ -16,10 +16,12 @@
     "@hapi/hapi": "^21.4.9",
     "bcrypt": "^6.0.0",
     "dotenv": "^17.4.2",
+    "exceljs": "^4.4.0",
     "jsonwebtoken": "^9.0.3",
     "mailtrap": "^4.6.0",
     "mysql2": "^3.22.3",
-    "nodemailer": "^8.0.8"
+    "nodemailer": "^8.0.8",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"

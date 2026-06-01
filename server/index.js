@@ -15,7 +15,11 @@ const init = async () => {
     require("../lib/routes/login"),
     require("../lib/routes/verifyLoginOtp"),
     require("../lib/routes/logout"),
-    require("../lib/routes/profile")
+    require("../lib/routes/profile"),
+    require("../lib/routes/employee"),
+    require("../lib/routes/exportEmployee")
+
+    
   ]);
 
   await server.start();
